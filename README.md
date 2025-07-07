@@ -35,7 +35,7 @@ npm install
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 ```
-In tailwind.config.cjs, set:
+In tailwind.config.js, set:
 ```
 content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"]
 ```
@@ -57,11 +57,13 @@ npm run dev
 ```
 Open http://localhost:5173 in your browser.
 
-
+---
 
 📖 API Used
-Imgflip Meme API
-Clerk Authentication
+- Imgflip Meme API
+- Clerk Authentication
+
+---
 
 🙌 Author
 Jigar Shah
